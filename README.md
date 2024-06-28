@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, seja bem-vindo ❤️
 
-<!--
-**Yzaak120/Yzaak120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Yzaak
+- Estou estudando pelo [Alura](https://www.alura.com.br)
+- Estou desenvolvendo uma línguagem de JavaScript
+- Utilizo esse para compartilhação e compartilhar meus projetos com mundo à fora
 
-Here are some ideas to get you started:
+  ### Você pode entrar em contato comigo, é somente me contatar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ismeyzk@hotmail.com
+
+  @yzaakvieira
+
+![](![image](https://github.com/Yzaak120/Yzaak120/assets/174096402/62cd60a8-e111-4617-8fda-e33ed11436c5))
+ 
+
